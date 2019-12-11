@@ -1,0 +1,10 @@
+﻿  sample.cpp
+B:\School\CS450\ProjectFinal2\SampleFreeGlut2019\sample.cpp(183,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+B:\School\CS450\ProjectFinal2\SampleFreeGlut2019\sample.cpp(337,58): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+B:\School\CS450\ProjectFinal2\SampleFreeGlut2019\sample.cpp(386,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+B:\School\CS450\ProjectFinal2\SampleFreeGlut2019\sample.cpp(386,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+B:\School\CS450\ProjectFinal2\SampleFreeGlut2019\sample.cpp(386,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+B:\School\CS450\ProjectFinal2\SampleFreeGlut2019\sample.cpp(549,26): warning C4305: 'argument': truncation from 'double' to 'float'
+B:\School\CS450\ProjectFinal2\SampleFreeGlut2019\sample.cpp(1540,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+bmp_to_texture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> B:\School\CS450\ProjectFinal2\SampleFreeGlut2019\.\Debug\Sample.exe
